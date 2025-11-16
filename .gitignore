@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Jupyter autosave checkpoints
+.ipynb_checkpoints/
+
+# Dataset (keep data local)
+data/*.csv
+
+# OS / editor junk files
+.DS_Store
+Thumbs.db
