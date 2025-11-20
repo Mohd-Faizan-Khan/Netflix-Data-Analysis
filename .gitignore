@@ -7,8 +7,8 @@ __pycache__/
 # Jupyter autosave checkpoints
 .ipynb_checkpoints/
 
-# Dataset (keep data local)
-data/*.csv
+#Ignore local notes
+Local_Notes/*
 
 # OS / editor junk files
 .DS_Store
