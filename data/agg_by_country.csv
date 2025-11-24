@@ -1,0 +1,139 @@
+primary_country,type,count
+Argentina,Movie,56
+Argentina,TV Show,20
+Australia,Movie,61
+Australia,TV Show,56
+Austria,Movie,8
+Austria,TV Show,1
+Bangladesh,Movie,3
+Belarus,TV Show,1
+Belgium,Movie,9
+Belgium,TV Show,9
+Brazil,Movie,56
+Brazil,TV Show,28
+Bulgaria,Movie,5
+Cambodia,Movie,2
+Cameroon,Movie,1
+Canada,Movie,187
+Canada,TV Show,84
+Chile,Movie,18
+Chile,TV Show,4
+China,Movie,59
+China,TV Show,41
+Colombia,Movie,15
+Colombia,TV Show,25
+Croatia,Movie,1
+Croatia,TV Show,1
+Cyprus,TV Show,1
+Czech Republic,Movie,5
+Czech Republic,TV Show,1
+Denmark,Movie,19
+Denmark,TV Show,11
+Egypt,Movie,98
+Egypt,TV Show,14
+Finland,Movie,3
+Finland,TV Show,3
+France,Movie,148
+France,TV Show,64
+Georgia,Movie,2
+Germany,Movie,78
+Germany,TV Show,25
+Ghana,Movie,4
+Greece,Movie,1
+Guatemala,Movie,1
+Hong Kong,Movie,76
+Hong Kong,TV Show,3
+Hungary,Movie,5
+Iceland,Movie,3
+Iceland,TV Show,3
+India,Movie,927
+India,TV Show,81
+Indonesia,Movie,83
+Indonesia,TV Show,2
+Iran,Movie,1
+Ireland,Movie,22
+Ireland,TV Show,6
+Israel,Movie,12
+Israel,TV Show,10
+Italy,Movie,48
+Italy,TV Show,19
+Jamaica,Movie,1
+Japan,Movie,85
+Japan,TV Show,174
+Jordan,TV Show,2
+Kenya,Movie,4
+Kuwait,Movie,5
+Kuwait,TV Show,2
+Lebanon,Movie,18
+Lebanon,TV Show,6
+Luxembourg,TV Show,1
+Malaysia,Movie,16
+Malaysia,TV Show,7
+Mauritius,Movie,1
+Mauritius,TV Show,1
+Mexico,Movie,86
+Mexico,TV Show,48
+Mozambique,Movie,1
+Namibia,Movie,1
+Netherlands,Movie,23
+Netherlands,TV Show,5
+New Zealand,Movie,15
+New Zealand,TV Show,2
+Nigeria,Movie,87
+Nigeria,TV Show,9
+Norway,Movie,12
+Norway,TV Show,9
+Pakistan,Movie,18
+Pakistan,TV Show,4
+Paraguay,Movie,1
+Peru,Movie,6
+Philippines,Movie,77
+Philippines,TV Show,3
+Poland,Movie,22
+Poland,TV Show,8
+Portugal,Movie,4
+Puerto Rico,TV Show,1
+Romania,Movie,10
+Russia,Movie,5
+Russia,TV Show,14
+Saudi Arabia,Movie,7
+Saudi Arabia,TV Show,4
+Senegal,TV Show,1
+Serbia,Movie,3
+Singapore,Movie,10
+Singapore,TV Show,18
+Slovenia,Movie,1
+Somalia,Movie,1
+South Africa,Movie,35
+South Africa,TV Show,6
+South Korea,Movie,47
+South Korea,TV Show,164
+Soviet Union,Movie,1
+Spain,Movie,129
+Spain,TV Show,52
+Sweden,Movie,11
+Sweden,TV Show,8
+Switzerland,Movie,7
+Switzerland,TV Show,1
+Syria,Movie,1
+Taiwan,Movie,15
+Taiwan,TV Show,70
+Thailand,Movie,41
+Thailand,TV Show,24
+Turkey,Movie,81
+Turkey,TV Show,30
+Ukraine,TV Show,2
+United Arab Emirates,Movie,20
+United Arab Emirates,TV Show,1
+United Kingdom,Movie,382
+United Kingdom,TV Show,246
+United States,Movie,2364
+United States,TV Show,847
+Unknown,Movie,440
+Unknown,TV Show,391
+Uruguay,Movie,8
+Uruguay,TV Show,1
+Venezuela,Movie,2
+Vietnam,Movie,7
+West Germany,Movie,1
+Zimbabwe,Movie,1
