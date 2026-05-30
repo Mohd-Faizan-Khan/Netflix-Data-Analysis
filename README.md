@@ -1,7 +1,7 @@
 # Netflix Content Analysis Dashboard  
 **Interactive Data Insights on Movies & TV Shows**
 
-This project analyzes the **Netflix Titles** dataset using Python. It includes data cleaning, exploratory analysis, visualization, and a production-ready Streamlit dashboard — a complete end-to-end data project suitable for a portfolio or interview demo.
+This project analyzes the **Netflix Titles** dataset using Python. It includes data cleaning, exploratory analysis, visualization, and a production-ready Streamlit dashboard — a complete end-to-end data project.
 
 
 ## Project Overview
